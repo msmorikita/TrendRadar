@@ -119,3 +119,9 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
+  - id: "tencent"
+    name: "腾讯新闻"
+  - id: "douyin"
+    name: "抖音”
+  - id: "zaobao"
+    name: "新加坡联合早报"
